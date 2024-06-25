@@ -1,1 +1,5 @@
 Data Set/
+YoloPose/Estimacion de Pose/yolov8n-pose.pt
+YoloPose/CNN/yolov8n-pose.pt
+YoloPose/DNN/yolov8n-pose.pt
+YoloPose/RNN/yolov8n-pose.pt
